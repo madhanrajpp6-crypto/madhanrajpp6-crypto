@@ -260,7 +260,7 @@ My long-term interest is in developing **intelligent healthcare systems** that c
 <!-- ========================= STATS ========================= -->
 
 GitHub Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=madhanrajpp6-crypto&theme=blue-green&hide_border=true" alt="GitHub Streak Stats"/> </p> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhanrajpp6-crypto&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajpp6-crypto&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages"/> </p>
+ <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhanrajpp6-crypto&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajpp6-crypto&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages"/> </p>
 
 ---
 

@@ -1,15 +1,22 @@
-<h1 align="center">Hi 👋, I'm Madhanraj P</h1>
-
-<h3 align="center">Biomedical Engineering Student & Developer</h3>
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  🩺 Healthcare Technology &nbsp;•&nbsp;
-  🤖 Artificial Intelligence &nbsp;•&nbsp;
-  ⚡ IoT & Embedded Systems
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Madhanraj%20P&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Madhanraj P</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A86B&center=true&vCenter=true&width=750&lines=Biomedical+Engineer+%26+Developer;Healthcare+%2B+Artificial+Intelligence;IoT+%2B+Embedded+Systems;Building+Intelligent+Healthcare+Technology"/>
 </p>
 
 <p align="center">
-  <b>Building practical technology at the intersection of Biomedical Engineering and Software Development.</b>
+  <b>🩺 Biomedical Engineering &nbsp; • &nbsp; 🤖 AI &nbsp; • &nbsp; ⚡ IoT &nbsp; • &nbsp; 💻 Software</b>
+</p>
+
+<p align="center">
+  Building practical technology at the intersection of
+  <b>Biomedical Engineering, Artificial Intelligence and Software Development.</b>
 </p>
 
 <p align="center">
@@ -19,33 +26,72 @@
   <a href="mailto:madhanrajpp6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/madhanrajpp6-crypto">
+    <img src="https://img.shields.io/badge/GitHub-madhanrajpp6--crypto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧬 Who I Am
+<!-- ========================= ABOUT ========================= -->
 
-I'm a **Biomedical Engineering student and developer** interested in building technology-driven solutions for healthcare.
+## 🧬 About Me
 
-I enjoy working across both **hardware and software** — from biomedical sensors and embedded systems to AI agents, backend APIs, and voice-based applications.
+<table>
+<tr>
+<td width="55%">
 
-**My Core Focus**
+I'm a **Biomedical Engineering student and developer** passionate about building technology-driven solutions for healthcare.
 
-\`\`\`text
-Biomedical Engineering
-        ↓
-Biomedical Sensors & Instrumentation
-        ↓
-IoT & Embedded Systems
-        ↓
-Backend & Software Development
-        ↓
-Artificial Intelligence
-        ↓
-Healthcare Applications
-\`\`\`
+I enjoy working across both **hardware and software** — from biomedical sensors and embedded systems to AI agents, backend APIs and voice-based applications.
+
+### 🔬 My Interests
+
+🩺 Biomedical Engineering  
+🔬 Biomedical Instrumentation  
+❤️ Healthcare Technology  
+🤖 Artificial Intelligence  
+🎙️ Voice AI  
+⚡ IoT & Embedded Systems  
+💻 Software Development  
+🌐 Backend Development  
+🧠 Healthcare AI  
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🎯 My Core Focus
+
+<p align="center">
+
+\`\`\`text
+        🩺 Biomedical Engineering
+                    ↓
+        🔬 Biomedical Sensors
+                    ↓
+        ⚡ IoT & Embedded Systems
+                    ↓
+        💻 Software Development
+                    ↓
+        🤖 Artificial Intelligence
+                    ↓
+        🧠 Intelligent Healthcare
+\`\`\`
+
+</p>
+
+---
+
+<!-- ========================= WHAT I BUILD ========================= -->
 
 ## 🩺 What I Build
 
@@ -60,6 +106,8 @@ Healthcare Applications
 | 🧠 Healthcare Technology | Digital Health, Monitoring & Intelligent Assistants |
 
 ---
+
+<!-- ========================= PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
 
@@ -78,7 +126,6 @@ A healthcare-focused AI assistant designed to provide basic health information, 
 
 **Tech:** \`AI\` \`Voice AI\` \`Node.js\` \`REST API\` \`Rime TTS\` \`Deepgram\`
 
-
 ---
 
 ### 🌾 AgroLink Direct — Connecting Farmers & Industries Directly
@@ -94,7 +141,6 @@ A digital agriculture marketplace concept designed to connect farmers and indust
 - 🤖 AI-assisted features
 
 **Tech:** \`JavaScript\` \`Node.js\` \`MongoDB\` \`Maps\` \`AI\`
-
 
 ---
 
@@ -112,8 +158,9 @@ An IoT-enabled biomedical prototype combining physiological and motion sensors f
 - 🚨 Emergency Alerts
 - ☁️ IoT Connectivity
 
-
 ---
+
+<!-- ========================= TECH STACK ========================= -->
 
 ## 🛠️ Technology Stack
 
@@ -172,6 +219,8 @@ An IoT-enabled biomedical prototype combining physiological and motion sensors f
 
 ---
 
+<!-- ========================= LEARNING ========================= -->
+
 ## 🧠 Currently Learning
 
 \`\`\`text
@@ -185,6 +234,8 @@ RAG Systems                  ███████░░░░░░
 \`\`\`
 
 ---
+
+<!-- ========================= DIRECTION ========================= -->
 
 ## 🎯 My Direction
 
@@ -206,17 +257,22 @@ My long-term interest is in developing **intelligent healthcare systems** that c
 
 ---
 
-# 📊 GitHub Stats
+<!-- ========================= STATS ========================= -->
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=madhanrajpp6-crypto&theme=blue-green&hide_border=true"
-       alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=madhanrajpp6-crypto&theme=blue-green&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
-  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhanrajpp6-crypto&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhanrajpp6-crypto&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
+
+<!-- ========================= CONNECT ========================= -->
 
 ## 📫 Connect With Me
 
@@ -227,9 +283,14 @@ My long-term interest is in developing **intelligent healthcare systems** that c
   <a href="mailto:madhanrajpp6@gmail.com">
     <img src="https://img.shields.io/badge/Email-madhanrajpp6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/madhanrajpp6-crypto">
+    <img src="https://img.shields.io/badge/GitHub-madhanrajpp6--crypto-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
+
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
   <b>🩺 Building Healthcare Technology • 🤖 Exploring AI • ⚡ Engineering the Future</b>
@@ -237,4 +298,8 @@ My long-term interest is in developing **intelligent healthcare systems** that c
 
 <p align="center">
   <i>Biomedical Engineer in progress. Developer by curiosity.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>

@@ -52,7 +52,7 @@ I enjoy working across both **hardware and software** — from biomedical sensor
 ❤️ Healthcare Technology  
 🤖 Artificial Intelligence  
 🎙️ Voice AI  
-⚡ IoT & Embedded Systems  
+⚡ IoT & Robatices
 💻 Software Development  
 🌐 Backend Development  
 🧠 Healthcare AI  
